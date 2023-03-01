@@ -29,6 +29,8 @@ p {
     margin: auto 200px;
     padding-top: 10px;
     padding-bottom: 30px;
+    padding left: 40px;
+    padding right:40px;
     border-radius: 10px;
 }
 
