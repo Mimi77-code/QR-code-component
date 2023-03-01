@@ -26,7 +26,7 @@ p {
 
 .box-outer {
     background-color: white;
-    margin: auto 500px;
+    margin: auto ;
     padding-top: 10px;
     padding-bottom: 30px;
     border-radius: 10px;
